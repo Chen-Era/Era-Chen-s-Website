@@ -1,7 +1,7 @@
----  
-title: "Jiyuan Chen's Page"  
+---
+# Display name
+title: Jiyuan Chen (陈纪元)
 
-  
 # Is this the primary user of the site?
 superuser: true
 
@@ -61,18 +61,10 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
----
-# Jiyuan Chen (陈纪元)  
-{{% raw %}}  
-<p class="display-name">    
-    <span class="display-name-en">Jiyuan Chen</span>    
-    <span class="display-name-cn">（陈纪元）</span>    
-</p>  
-{{% /raw %}}  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Chen@era.ac.cn"
-
+---
 
 Highly driven and compassionate resident with experience in a variety of roles in the medical field. Adept at conducting innovative research on urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population, while staying up to date with the most current medical practices.
 
