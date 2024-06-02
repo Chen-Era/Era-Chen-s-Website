@@ -27,16 +27,15 @@ experience:
     company_url: ''
     company_logo: puh3
     location: Beijing, China
-    date_start: '2024'
-    description: |2-
-        * Urology Department
+    date_start: '2024-05-01'
+
 
   - title: MB in Clinical Medicine
     company: Peking University Health Science Center
     company_url: ''
     company_logo: pkuhsc
     location: Beijing, China
-    date_start: '2020'
+    date_start: '2020-07-01'
     date_end: '2024'
 
   - title: Pre-Med
@@ -44,8 +43,8 @@ experience:
     company_url: ''
     company_logo: pku
     location: Beijing, China
-    date_start: '2019'
-    date_end: '2020'
+    date_start: '2019-07-01'
+    date_end: '2020-06-30'
 
 design:
   columns: '1'
