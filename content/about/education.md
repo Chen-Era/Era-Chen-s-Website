@@ -36,7 +36,7 @@ experience:
     company_logo: pkuhsc
     location: Beijing, China
     date_start: '2020-07-01'
-    date_end: '2024'
+    date_end: '2024-04-30'
 
   - title: Pre-Med
     company: Peking University
