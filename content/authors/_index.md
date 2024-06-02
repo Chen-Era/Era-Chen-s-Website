@@ -8,4 +8,13 @@ cascade:
   _build:
     render: never
     list: always
+
+design:
+  background:
+    image:
+      placement: 3
+      focal_point: 'Top'
+      preview_only: false
+      filename: MyBackground.jpg
+
 ---
