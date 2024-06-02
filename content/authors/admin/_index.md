@@ -1,13 +1,6 @@
 ---  
 title: "Jiyuan Chen's Page"  
 
-# Jiyuan Chen (陈纪元)  
-{{% raw %}}  
-<p class="display-name">    
-    <span class="display-name-en">Jiyuan Chen</span>    
-    <span class="display-name-cn">（陈纪元）</span>    
-</p>  
-{{% /raw %}}  
   
 # Is this the primary user of the site?
 superuser: true
@@ -69,6 +62,14 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 ---
+# Jiyuan Chen (陈纪元)  
+{{% raw %}}  
+<p class="display-name">    
+    <span class="display-name-en">Jiyuan Chen</span>    
+    <span class="display-name-cn">（陈纪元）</span>    
+</p>  
+{{% /raw %}}  
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Chen@era.ac.cn"
 
