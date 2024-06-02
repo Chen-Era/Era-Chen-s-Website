@@ -44,7 +44,7 @@ bio: My research interests include urological tumor diagnosis and treatment and 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:Chen@era.ac.cn".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CJYorKing
@@ -68,6 +68,5 @@ social:
 
 Highly driven and compassionate resident with experience in a variety of roles in the medical field. Adept at conducting innovative research on urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population, while staying up to date with the most current medical practices.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
