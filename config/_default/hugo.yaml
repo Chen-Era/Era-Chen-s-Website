@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Portfolio Theme # Website name
-baseURL: 'era.ac.cn' # Website URL
+title: Era_Chen # Website name
+baseURL: 'http://era.ac.cn' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -14,7 +14,7 @@ cascade:
   # Blog post options
   - _target:
       path: /post/**
-    editable: true
+    editable: false
     reading_time: true
     commentable: true
     show_related: true
