@@ -64,6 +64,13 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Chen@era.ac.cn"
+
+image:
+  placement: 3
+  focal_point: 'Top'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  filename: MyBackground.jpg
 ---
 
 Highly driven and compassionate resident with experience in a variety of roles in the medical field. Adept at conducting innovative research on urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population, while staying up to date with the most current medical practices.
