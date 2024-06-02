@@ -39,7 +39,7 @@ experience:
     date_start: '2020'
     date_end: '2024'
 
-    - title: Pre-Med
+  - title: Pre-Med
     company: Peking University
     company_url: ''
     company_logo: pku
