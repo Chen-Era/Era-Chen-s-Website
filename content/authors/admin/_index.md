@@ -1,6 +1,10 @@
 ---
-# Display name
-title: Jiyuan Chen (陈纪元)
+# Jiyuan Chen (陈纪元)  
+  
+<p class="display-name">  
+    <span class="display-name-en">Jiyuan Chen</span>  
+    <span class="display-name-cn">（陈纪元）</span>  
+</p>
 
 # Is this the primary user of the site?
 superuser: true
