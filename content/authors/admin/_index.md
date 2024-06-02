@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population.
 
-#interests:
-#- Dignosis and Treatment on Urology
-#- Clinical Research on Urological Oncology
-#- Oncological Pathogenesis Research
+interests:
+- Dignosis and Treatment on Urology
+- Clinical Research on Urological Oncology
+- Oncological Pathogenesis Research
 
-#education:
-#  courses:
-#  - course: MD in Surgery
-#    institution: Peking University Third Hospital
-#    year: 2024
-#  - course: MB in Clinical Medicine
-#    institution: Massachusetts Institute of Technol
-#    year: 2021
-#  - course: Pre-Med
-#    institution: Peking University
-#    year: 2019
+education:
+  courses:
+  - course: MD in Surgery
+    institution: Peking University Third Hospital
+    year: 2024
+  - course: MB in Clinical Medicine
+    institution: Massachusetts Institute of Technol
+    year: 2021
+  - course: Pre-Med
+    institution: Peking University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,9 +52,9 @@ social:
     icon_pack: fab
     link: https://instagram.com/cjyorking
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Chen-Era
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Chen-Era
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
