@@ -1,6 +1,6 @@
 ---
 title: Small Blessings
-summary: which can save the day...
+summary: Which can save the day...
 tags:
   - DC
 date: 2022-01-01

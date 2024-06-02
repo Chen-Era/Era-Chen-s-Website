@@ -1,8 +1,8 @@
 ---
 title: Photo Gallerys
-summary: shot on Lumix GX9
+summary: Basically shot with Lumix GX9
 tags:
-  - Photography
+  - Photo
 date: 2022-01-01
 external_link: http://github.com
 ---
