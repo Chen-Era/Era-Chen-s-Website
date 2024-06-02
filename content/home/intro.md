@@ -16,6 +16,13 @@ author: admin
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+
+image:
+  placement: 3
+  focal_point: 'Top'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  filename: MyBackground.jpg
 ---
 
 👋 Hi, there! I'm **Jiyuan**, a resident doctor at Peking Univerisity Third Hospital.
