@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jiyuan Chen (陈纪元)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,28 +14,28 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Peking Univeristy Third Hospital
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Dignosis and Treatment on Urology
+#- Clinical Research on Urological Oncology
+#- Oncological Pathogenesis Research
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: MD in Surgery
+#    institution: Peking University Third Hospital
+#    year: 2024
+#  - course: MB in Clinical Medicine
+#    institution: Massachusetts Institute of Technol
+#    year: 2021
+#  - course: Pre-Med
+#    institution: Peking University
+#    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,14 +47,14 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/CJYorKing
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/cjyorking
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/Chen-Era
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,10 +63,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "Chen@era.ac.cn"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Highly driven and compassionate resident with experience in a variety of roles in the medical field. Adept at conducting innovative research on urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population, while staying up to date with the most current medical practices.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
