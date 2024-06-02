@@ -13,8 +13,8 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: Peking Univeristy Third Hospital
+organizations:
+- name: Peking Univeristy Third Hospital
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "Chen@era.ac.cn"
+email: "Chen@era.ac.cn"
 ---
 
 Highly driven and compassionate resident with experience in a variety of roles in the medical field. Adept at conducting innovative research on urological tumor diagnosis and treatment and providing effective treatment to a diverse patient population, while staying up to date with the most current medical practices.
