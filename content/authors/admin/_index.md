@@ -1,4 +1,6 @@
----
+---  
+title: "Jiyuan Chen's Page"  
+---  
 # Jiyuan Chen (陈纪元)  
   
 <p class="display-name">  
