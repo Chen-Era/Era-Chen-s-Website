@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Small Blessings
+summary: which can save the day...
 tags:
-  - NLP
+  - DC
 date: 2022-01-01
 external_link: http://github.com
 ---
