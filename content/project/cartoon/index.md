@@ -1,8 +1,7 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Academci Publications and Conferences
+summary: Constantly updated, if possible()
 tags:
-  - CV
-date: 2022-01-01
+  - MR
 external_link: http://github.com
 ---
